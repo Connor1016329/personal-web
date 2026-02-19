@@ -1,0 +1,93 @@
+Create a professional personal resume website tailored specifically for a Head of Business Operations role at a high-growth remote startup.
+
+The tone should convey:
+• Highly capable operator mindset
+• Founder-level ownership and initiative
+• Systems thinker who turns chaos into process
+• Analytical and data-driven
+• Strong written communicator
+• Down-to-earth, low-ego, collaborative personality
+
+The website should include:
+
+1) A strong headline positioning me as a strategic operator and execution-focused business leader.
+
+2) A professional summary emphasizing:
+- Experience operating in ambiguous startup environments
+- Ability to build processes from scratch
+- Strong analytical and technical skills
+- Proven track record of self-directed leadership
+- Comfort managing external partners and cross-functional workflows
+
+3) Sections highlighting:
+- Operations & Systems Leadership
+- Data & Analytics Capabilities
+- Startup Experience
+- Technical & Process Automation Skills
+- Leadership & Culture Contributions
+
+4) Emphasize qualities aligned with BizOps:
+- Turning messy situations into organized systems
+- Managing multiple stakeholders
+- Tracking KPIs and reporting insights
+- Process design and operational scaling
+- High accountability and ownership mindset
+
+5) Use clear, concise writing with strong action-oriented language.
+
+6) The site should feel modern, credible, and polished — suitable for a high-level startup leadership role.
+
+Use the following personal information to populate the site:
+
+
+NAME: Connor Neistadt
+
+PROFESSIONAL PROFILE:
+
+I am a highly driven operator and systems thinker with a non-traditional path that combines military discipline, entrepreneurial leadership, technical expertise, and real-world problem solving.
+
+I graduated high school early and developed strong independence and responsibility early in life. My experience connected to the Marine Corps environment reinforced leadership, accountability, and the ability to operate under pressure.
+
+I have worked across diverse roles ranging from hands-on operational jobs to technical development and startup leadership. This background gives me a unique ability to understand both high-level strategy and ground-level execution.
+
+I am currently a founder and technical leader building a hardware and software startup focused on real-time communication and safety systems for off-grid environments. This role requires managing operations, vendors, financial planning, product development workflows, external partners, and strategic decision-making.
+
+CORE STRENGTHS:
+
+• Exceptional problem solver who thrives in ambiguous environments
+• Highly analytical and data-driven decision maker
+• Proven ability to build processes from scratch
+• Strong written communicator and documentation mindset
+• Self-directed and comfortable taking ownership without supervision
+• Fast learner with high adaptability
+• Strong operational discipline and follow-through
+• Systems thinker who focuses on scalable solutions rather than one-off fixes
+
+OPERATIONS EXPERIENCE:
+
+• Managing cross-functional workflows between engineering, business, and external vendors
+• Coordinating contractors, suppliers, and service providers
+• Building internal systems for tracking tasks, progress, and priorities
+• Creating structured decision frameworks for complex problems
+• Handling logistics, planning, and execution for multiple concurrent initiatives
+
+ANALYTICAL & TECHNICAL SKILLS:
+
+• Strong proficiency in spreadsheets, data analysis, and performance tracking
+• Experience building dashboards and metrics tracking systems
+• Process automation mindset using software tools
+• Technical background in software development and hardware systems
+• Comfortable learning and implementing new operational tools quickly
+
+LEADERSHIP STYLE:
+
+• High ownership mentality
+• Calm under pressure
+• Direct, clear communicator
+• Collaborative and low-ego
+• Focused on enabling others to succeed
+• Driven by mission and impact
+
+CAREER MOTIVATION:
+
+I am motivated by opportunities to help organizations scale, bring order to complexity, and enable teams to do their best work. I thrive in environments where I can take ownership, solve diverse operational challenges, and build systems that allow a company to grow efficiently.
