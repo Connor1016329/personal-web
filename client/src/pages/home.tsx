@@ -19,7 +19,7 @@ import {
 } from "lucide-react";
 import { SiGithub, SiLinkedin } from "react-icons/si";
 import { motion } from "framer-motion";
-import profilePhoto from "@assets/github.com_Connor1016329_tab=repositories_1771529883670.png";
+import profilePhoto from "@assets/profile_1771546499780.jpg";
 
 const fadeUp = {
   hidden: { opacity: 0, y: 20 },
