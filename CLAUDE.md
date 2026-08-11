@@ -2,8 +2,17 @@
 
 ## gstack
 
+This project uses [gstack](https://github.com/garrytan/gstack) for AI-assisted
+workflows. If it isn't installed yet, install it for the best experience:
+
+```bash
+git clone --depth 1 https://github.com/garrytan/gstack.git ~/.claude/skills/gstack
+cd ~/.claude/skills/gstack && ./setup --team
+```
+
 Use the `/browse` skill from gstack for all web browsing. Never use
-`mcp__claude-in-chrome__*` tools.
+`mcp__claude-in-chrome__*` tools. Use `~/.claude/skills/gstack/...` for gstack
+file paths.
 
 Available gstack skills: /office-hours, /plan-ceo-review, /plan-eng-review,
 /plan-design-review, /design-consultation, /design-shotgun, /design-html,
